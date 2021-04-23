@@ -1,0 +1,14 @@
+﻿  2examen.cpp
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(50,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(49,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(75,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(74,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\2examen.cpp(29,112): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Productos'
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\2examen.cpp(29,112): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+  ConexionBD.cpp
+  Produc.cpp
+  Productos.cpp
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(50,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(49,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(75,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Shelly Pam\OneDrive\MIUMG\Progra 1\examen 2do parcial\2examen\2examen\Productos.h(74,13): warning C4101: 'fila': variable local sin referencia
